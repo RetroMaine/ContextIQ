@@ -1,0 +1,11 @@
+# Milvus client
+pymilvus==2.5.12
+
+# gRPC – matches pymilvus’s upper bound
+grpcio==1.67.1
+grpcio-status==1.67.1
+
+# PyTorch and torchaudio in sync
+torch==2.7.0
+torchaudio==2.7.0
+torchvision==0.22.0
